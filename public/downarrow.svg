@@ -1,0 +1,42 @@
+<svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="12" height="12" fill="#E2E8F0"/>
+<g id="LMS-QUIZ">
+<rect width="1280" height="775" transform="translate(-664 -194)" fill="#F8FAFC"/>
+<g id="Frame 427319595">
+<rect x="-389.5" y="-154.5" width="995" height="558" rx="13.5" fill="white"/>
+<rect x="-389.5" y="-154.5" width="995" height="558" rx="13.5" stroke="#E2E8F0"/>
+<g id="Frame 42">
+<mask id="path-2-inside-1_11021_50895" fill="white">
+<path d="M-390 -155H606V39H-390V-155Z"/>
+</mask>
+<path d="M606 38H-390V40H606V38Z" fill="#E2E8F0" mask="url(#path-2-inside-1_11021_50895)"/>
+<g id="Frame 427319612">
+<g id="Frame 427319610">
+<g id="Frame 427319609">
+<g id="Frame 427318945">
+<g id="input field" filter="url(#filter0_d_11021_50895)">
+<rect x="-48" y="-6" width="68" height="24" rx="6" fill="#F3F4F6"/>
+<g id="Frame">
+<path id="Vector" d="M9.75 4.125L6 7.875L2.25 4.125" stroke="#64748B" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d_11021_50895" x="-50" y="-7" width="72" height="28" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="1"/>
+<feGaussianBlur stdDeviation="1"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.05 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_11021_50895"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_11021_50895" result="shape"/>
+</filter>
+</defs>
+</svg>

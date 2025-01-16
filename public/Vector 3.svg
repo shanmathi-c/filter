@@ -1,0 +1,21 @@
+<svg width="2" height="28" viewBox="0 0 2 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="2" height="28" fill="#E2E8F0"/>
+<g id="LMS-QUIZ">
+<rect width="1280" height="775" transform="translate(-548 -186)" fill="#F8FAFC"/>
+<g id="Frame 427319595">
+<rect x="-273.5" y="-146.5" width="995" height="558" rx="13.5" fill="white"/>
+<rect x="-273.5" y="-146.5" width="995" height="558" rx="13.5" stroke="#E2E8F0"/>
+<g id="Frame 42">
+<mask id="path-2-inside-1_11021_50895" fill="white">
+<path d="M-274 -147H722V47H-274V-147Z"/>
+</mask>
+<path d="M722 46H-274V48H722V46Z" fill="#E2E8F0" mask="url(#path-2-inside-1_11021_50895)"/>
+<g id="Frame 427319612">
+<g id="Frame 427319610">
+<path id="Vector 3" d="M1 0V28" stroke="#E2E8F0"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</svg>
