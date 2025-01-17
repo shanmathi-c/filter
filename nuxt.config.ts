@@ -2,7 +2,13 @@
 export default defineNuxtConfig({
   compatibilityDate: '2024-11-01',
   devtools: { enabled: true },
-  modules: ['@nuxtjs/tailwindcss','@nuxt-alt/http'],
+  modules: ['@nuxtjs/tailwindcss','@nuxt-alt/http','@element-plus/nuxt'
+    
+  ],
+  
+
+
+
 
   http:{
     baseURL: "http://localhost:5001",
