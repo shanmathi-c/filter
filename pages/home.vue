@@ -141,7 +141,7 @@
                 </div>
               </td>
               <td class="px-6 py-3">{{ item.createdAt }}</td>
-              <td @click="getEdit()" class="px-6 py-3">
+              <td @click="getEdit(index)" class="px-6 py-3">
                 <div class="flex flex-row items-center">
                   <img class="h-[20px] w-[20px]" src="/edit-2.svg" />
                   <div class="text-blue-600">Edit</div>
@@ -366,7 +366,8 @@ export default {
       this.isEdit = false;
     },
 
-    getEdit() {
+    getEdit(index) {
+      this.editProduct = this.product[index];
       this.isEdit = true;
       this.isQuiz = false;
       this.isHome = false;

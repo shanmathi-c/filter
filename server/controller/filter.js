@@ -134,19 +134,13 @@ export class FilterController {
 
   static createEditdata(req, res) {
     const { id, ...data } = req.body;
-
-    if (!id || Object.keys(data).length === 0) {
-      return res.status(400).json({
-        success: false,
-        message: "ID and data are required.",
-      });
-    }
-
+    const item = { name: data.name, status: data.status };
     connection.query(
       "UPDATE filters SET ? WHERE id = ?",
-      [data, id],
+      [item, id],
       (err, result) => {
         if (err) {
+          console.log("error", err);
           return res.status(500).json({
             success: false,
             message: "Error updating data.",
